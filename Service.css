@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#fff;
+}
+.navbar {
+    background-color: #191a1a;
+}
+.nav-link {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.nav-link:hover {
+      background-color:rgb(232, 53, 53);
+}
+
+.navbar-brand{
+    cursor: pointer;
+    color: #fff;
+    font-weight: 800;
+    font-size: 1.25rem;
+    text-decoration: none;
+}
